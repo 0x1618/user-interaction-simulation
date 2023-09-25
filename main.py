@@ -1,6 +1,6 @@
 #########
 
-EXAMPLE FILE
+# EXAMPLE FILE
 
 #########
 
